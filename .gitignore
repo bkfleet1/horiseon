@@ -1,1 +1,8 @@
 .DS_Store
+.log
+.lock
+.tmp
+.o
+.class
+.vsdx
+Thumbs.db
