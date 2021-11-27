@@ -28,11 +28,11 @@ The following items requirements were provided as the scope of work and acceptan
 
 # Code Refactoring 
 The following narrative details the developer's notes for the refactoring of the horiseon website files to conform with the acceptance criteria. Moreover, the hyperlinks below provide further supporting materials for the refactoring initiative.
->>> Original Code: https://bkfleet1.github.io/horiseon/assets/documents/original-code.zip
->>> Refactored Code: https://bkfleet1.github.io/horiseon/assets/documents/refactored-code.zip
->>> Readme file: https://github.com/bkfleet1/horiseon/blob/main/README.md?plain=1
->>> Project writeup: https://bkfleet1.github.io/horiseon/assets/documents/horiseon-webpage-refactoring.pdf
->>> Live refactored code: https://bkfleet1.github.io/horiseon/
+>>> - Original Code: https://bkfleet1.github.io/horiseon/assets/documents/original-code.zip
+>>> - Refactored Code: https://bkfleet1.github.io/horiseon/assets/documents/new-code.zip
+>>> - Readme file: https://github.com/bkfleet1/horiseon/blob/main/README.md?plain=1
+>>> - Project writeup: https://bkfleet1.github.io/horiseon/assets/documents/horiseon-webpage-refactoring.pdf
+>>> - Live refactored code: https://bkfleet1.github.io/horiseon/
 
 
 ## Repository Initiation
