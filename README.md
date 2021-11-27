@@ -27,12 +27,20 @@ The following items requirements were provided as the scope of work and acceptan
 
 
 # Code Refactoring 
+The following narrative details the developer's notes for the refactoring of the horiseon website files to conform with the acceptance criteria. Moreover, the hyperlinks below provide further supporting materials for the refactoring initiative.
+>>> Original Code: https://bkfleet1.github.io/horiseon/assets/documents/original-code.zip
+>>> Refactored Code: https://bkfleet1.github.io/horiseon/assets/documents/refactored-code.zip
+>>> Readme file: https://github.com/bkfleet1/horiseon/blob/main/README.md?plain=1
+>>> Project writeup: https://bkfleet1.github.io/horiseon/assets/documents/horiseon-webpage-refactoring.pdf
+>>> Live refactored code: https://bkfleet1.github.io/horiseon/
+
+
+## Repository Initiation
 The developer performed the following steps to initiate the code refactoring.
 
 > - 1. Logged into developer's GitHub portal
 > - 2. Created a new repository named "horiseon" and a readme.md file
 > - 3. Enabled the repository's web page features, which are found under the repository's settings > pages
->>> The refactored code is available for viewing at https://bkfleet1.github.io/horiseon/
 > - 4. Created a local directory c:/users/brad/desktop/develop/
 > - 5. The root directory for Git Bash on developer's computer is c:/users/brad. Entered command 'cd desktop/develop' to change directory
 > - 6. Next the developer opened the Git Bash terminal software
@@ -47,8 +55,6 @@ The developer performed the following steps to initiate the code refactoring.
 >>> 'git push origin main/horiseon'
 
 At this point the developement environment on the developer's local machine and GitHub repository were established and ready for code refactoring. Below is an screen capture of the horiseon repository ![horiseon github repository](./assets/images/github1.png)
-
-The following narrative details the refactoring of the code contained in the .html and .css files to satisfy the acceptance criteria.  
 
 ## HTML File Modifications
 
