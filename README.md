@@ -80,24 +80,10 @@ Click the following link to view a detailed layout of the elements/containers wi
 
 > - Added id="search-engine-optimization" to the Search Engine Optimization <div>. This enabled the page's navigation link for "Search Engine Optimization" located in the <header>: and
 > - Removed the three separate css classes and replaced them with a single class named "services". All three classes had the same styling parameters in the css file.
->> Original Code
->>> <div class="search-engine-optimization">
->>> <div id="online-reputation-management" class="online-reputation-management">
->>> <div id="social-media-marketing" class="social-media-marketing">
->> New Code
->>> <div id="search-engine-optimization" class="services">
->>> <div id="online-reputation-management" class="services">
->>> <div id="social-media-marketing" class="services">
+![class codes changes and add id](./assets/images/id-class1.png)
 
 > - Added alt tags to images, which were missing.
->> Original Code
->>> <img src="./assets/images/search-engine-optimization.jpg" class="float-left" />
->>> <img src="./assets/images/online-reputation-management.jpg" class="float-right" />
->>> <img src="./assets/images/social-media-marketing.jpg" class="float-left" />
->> New Code
->>> <img src="./assets/images/search-engine-optimization.jpg" alt="Enhancing search engine placement" class="float-left" />
->>> <img src="./assets/images/online-reputation-management.jpg" alt="Managing online reputation" class="float-right" />
->>> <img src="./assets/images/social-media-marketing.jpg" alt="Effective social media for marketing" class="float-left" />
+![alt tags added to images](./assets/images/image-alt1.png)
 
 
 ### Services-Sec Container
@@ -110,14 +96,7 @@ Click the following link to view a detailed layout of the elements/containers wi
 
 > - Corrected <img> tag closing; and
 > - Added alt tags to images, which were missing
->> Original Code
->>> <img src="./assets/images/lead-generation.png" />
->>> <img src="./assets/images/brand-awareness.png" />
->>> <img src="./assets/images/cost-management.png"></img>
->> New Code
->>> <img src="./assets/images/lead-generation.png" alt="Generating business using digital platforms" />
->>> <img src="./assets/images/brand-awareness.png" alt="Increasing visibility of business" />
->>> <img src="./assets/images/cost-management.png" alt="Control digital advertising cost" />
+![alt tags added to images and tag closing](./assets/images/image-alt2.png)
 
 > - Removed the three separate css classes and replaced them with a single class named "services". All three classes had the same styling parameters in the css file.
 >> Original Code
